@@ -1,0 +1,65 @@
+.full-height {
+    min-height: 100vh;
+}
+
+.fb-mt-5{
+    margin-top: 8rem !important;
+}
+
+.fb-bg{
+    background-color: #f0f2f5 !important;
+}
+
+.fb-shadow {
+    box-shadow:0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+
+}
+
+.fb-modal {
+    padding-right: 16px;
+    display: block;
+}
+
+
+.fixed-top-padding{
+    padding-top: 75px;
+}
+
+/*Links component styles*/
+
+.link-icon{
+    width: 36px;
+    height: 36px;
+}
+
+.link-radius{
+    border-radius: 50% !important;
+}
+
+.links-bg:hover{
+    background-color: silver;
+}
+
+
+/*post styles begin*/
+.fb-no-margin-bottom{
+    margin-bottom: 0px im !important;
+}
+
+.fb-right{
+    float:right;
+    display: inline;
+}
+.fb-left{
+    float: left;
+    display: inline;
+}
+/*posst styles end*/
+
+.fb-absol {
+    position:  absolute;
+}
+
+.fb-pointer {
+    cursor: pointer;
+}
